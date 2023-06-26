@@ -3,7 +3,7 @@
 This is a project regarding management of Employee information in a company using C++, OOPs.
 
 
-We can
+We can do the following things using this code
 * build a table with certain number of entries.
 * Insert a new entry for storing a new Employee's data.
 * Delete an entry of certain Employee.
